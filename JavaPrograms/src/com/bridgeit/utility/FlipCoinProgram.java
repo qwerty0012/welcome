@@ -1,6 +1,12 @@
 package com.bridgeit.utility;
 
 public class FlipCoinProgram {
+	/**
+	    * Function to find out flip coin and percentage of head and tail
+	    *
+	    * @param number for flip coin
+	    */
+	   
 	public int coinTossed(int number)
 	{
 		int countOfHead=0;

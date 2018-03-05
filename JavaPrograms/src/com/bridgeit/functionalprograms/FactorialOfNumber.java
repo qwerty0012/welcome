@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  
+ *  Purpose: To find factorial of a given number
+ *
+ *  @author  Pragati
+ *  @version 1.0
+ *  @since   05-03-2018
+ *
+ ******************************************************************************/
 package com.bridgeit.functionalprograms;
 
 import java.util.Scanner;

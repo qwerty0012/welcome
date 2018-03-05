@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  
+ *  Purpose: To calculate nth harmonic value
+ *
+ *  @author  Pragati
+ *  @version 1.0
+ *  @since   05-03-2018
+ *
+ ******************************************************************************/
 package com.bridgeit.functionalprograms;
 
 import java.util.Scanner;

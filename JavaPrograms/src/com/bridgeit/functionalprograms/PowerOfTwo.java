@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  
+ *  Purpose: To print table of power of two and to check entered number is leap or not
+ *
+ *  @author  Pragati
+ *  @version 1.0
+ *  @since   05-03-2018
+ *
+ ******************************************************************************/
 package com.bridgeit.functionalprograms;
 
 import java.util.Scanner;

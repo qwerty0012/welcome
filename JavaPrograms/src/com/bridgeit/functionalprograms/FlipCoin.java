@@ -1,3 +1,14 @@
+/******************************************************************************
+ *  
+ *  Purpose: To find out flip coin and percentage of head and tail
+ *
+ *  @author  Pragati
+ *  @version 1.0
+ *  @since   05-03-2018
+ *
+ ******************************************************************************/
+
+
 package com.bridgeit.functionalprograms;
 
 import java.util.Scanner;
