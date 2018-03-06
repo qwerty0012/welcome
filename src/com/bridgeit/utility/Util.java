@@ -192,5 +192,30 @@ public int primeFactorial(int number)
 }
 
 
+
+/**
+ * Function to find distinct coupon number
+ *
+ * @param number different coupon number
+ */
+
+
+public int searchDistinctNumber(int couponNumbers,int number)
+{
+	for(int i=0;i<Math.random();i++)
+	{
+		if(couponNumbers==number)
+		{
+			System.out.println("no new number");
+		}
+		else
+		{
+			System.out.println("distinct number");
+			
+		}
+	}
+	return number;
+}
+
 	
 }

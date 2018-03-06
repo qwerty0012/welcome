@@ -2,7 +2,8 @@ package com.bridgeit.functionalprograms;
 
 import java.util.Scanner;
 
-import com.bridgeit.utility.CouponNumberProgram;
+import com.bridgeit.utility.Util;
+
 
 public class CouponNumber {
 
@@ -20,7 +21,7 @@ public class CouponNumber {
     	}
      	System.out.println("Enter a number you want to check");
         int number=scanner.nextInt();
-		CouponNumberProgram coupon=new CouponNumberProgram();
+		Util coupon=new Util();
         coupon.searchDistinctNumber(couponNumbers,number);
 	}
 
